@@ -21,7 +21,9 @@ Comando: <code>git merge upstream/master</code>
 
 #### Criar um pull request
 Inserir tela do git 1
+
 Inserir tela do git 2
+
 Inserir tela do git 3
 
 Os administradores do repositório remoto receberão uma notificação do seu pull request. Agora, basta esperas a sua aprovação.
