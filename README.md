@@ -18,12 +18,12 @@ Comando: <code>git fetch upstream</code>
 
 #### Merge da branch local com a remota
 Comando: <code>git merge upstream/master</code>
+ou
+Comando: <code>git rebase upstream/master</code>
 
 #### Criar um pull request
-Inserir tela do git 1
+Comando: <code>git pull upstream master</code>
 
-Inserir tela do git 2
-
-Inserir tela do git 3
+Comando: <code>git push origin master</code>
 
 Os administradores do repositório remoto receberão uma notificação do seu pull request. Agora, basta esperas a sua aprovação.
